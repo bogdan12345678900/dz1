@@ -10,3 +10,4 @@ k = ['name', 'age', 'city']
 v = ['Андрій', 25, 'Київ']
 result = lists_to_dict(k , v)
 print(result)
+

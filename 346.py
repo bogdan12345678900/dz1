@@ -4,3 +4,4 @@ for key in list(data.keys()):
     if data[key] < threshold:
         del data[key]
 print("Оновлений словник:", data)
+

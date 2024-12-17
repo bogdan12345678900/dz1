@@ -11,3 +11,4 @@ def count(v):
 v = ['Анна', 'Олег', 'Анна', 'Ірина', 'Олег', 'Анна']
 result = count(v)
 print(result)
+
